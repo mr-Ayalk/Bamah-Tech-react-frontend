@@ -1,6 +1,7 @@
-import { people01, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
-import ayalk from "../assets/ayalk.jpg"
-import oli from "../assets/oli.jpg"
+import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import ayalk from "../assets/kidus.jpg"
+import oli from "../assets/oli.jpg";
+import hermon from "../assets/hermon.jpg"
 export const navLinks = [
   {
     id: "home",
@@ -49,24 +50,24 @@ export const feedback = [
     id: "feedback-1",
     content:
       "I am incredibly impressed with the service I received! The team was professional, responsive, and went above and beyond to ensure my needs were met. The final product exceeded my expectations, and I can't wait to work with you again!",
-    name: "Hanna Kebede",
-    title: "Electrical Engineer",
-    img: people01,
+    name: "Hermon Getachew",
+    title: "Computer Engineer",
+    img: hermon,
   },
   {
     id: "feedback-2",
     content:
       "Fantastic experience from start to finish! Your staff was knowledgeable and attentive, making the entire process seamless. I truly appreciate the creativity and effort put into my project. Thank you for delivering such high-quality work!",
     name: "Oli Dereje",
-    title: "Software Engineer",
+    title: "Software Developer",
     img: oli,
   },
   {
     id: "feedback-3",
     content:
     "I just wanted to express my gratitude for the amazing service! The communication was excellent, and I felt valued as a client throughout the entire process. It's refreshing to work with a company that genuinely cares about its customers. Highly recommend!",
-    name: "Ayalkbet Teketel",
-    title: "Founder & Leader",
+    name: "Kidus Melaku",
+    title: "Computer Engineer",
     img: ayalk,
   },
 ];
