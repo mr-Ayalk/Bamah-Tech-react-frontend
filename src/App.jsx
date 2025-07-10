@@ -3,6 +3,7 @@ import {
   Business,
   CardDeal,
   Clients,
+  Service,
   CTA,
   Footer,
   Navbar,
