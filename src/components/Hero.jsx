@@ -1,5 +1,5 @@
 import styles from "../style";
-
+//it would be better if u change the image of the hero section
 import GetStarted from "./GetStarted";
 import heromain from "../assets/heromail.png"
 const Hero = () => {
